@@ -1,4 +1,4 @@
-# smart_meter_analysisAnalysis of smart meters in London
+# Analysis of smart meters in London
 
 There is a UK government led initiative to help tackle climate change by installing smart energy meters in every home in the UK by 2020. In order to test out the feasibility of this, the government carried out a study. Rolling out smart energy meters to a sample in London and recording energy readings every 30 mins from November 2011- February 2014.
 
